@@ -11,7 +11,7 @@ RigidChips上で動くGUIシステムです。
 ウィンドウ外にはみ出した線の切り取り処理、  
 ウィンドウの移動、拡大縮小、スクロールに対応。  
 
-動かすにはRigidChipsにSpiritusが入っていることが必須です。  
+動かすにはRigidChipsにSpirytusが入っていることが必須です。  
 その他必須ライブラリ  
 cel/RC/Spell.lua		    --cel氏製フォント表示ライブラリ  
 cel/font/PathData.lua	  --cel氏製フォントライブラリ  
