@@ -1,3 +1,4 @@
+## 構成
 - mashiro.lua : 本体
 - APPsList.lua : アプリのリスト
 - APPsフォルダ : アプリを入れておくフォルダ
